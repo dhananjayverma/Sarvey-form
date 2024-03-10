@@ -14,3 +14,9 @@ The Survey component is a React component designed to gather feedback from users
 - Allows users to rate each question using a star rating system.
 - Provides options to skip questions, move to the previous question, or proceed to the next question.
 - Validates user responses and ensures all questions are answered before submission.
+- Utilizes local storage to store session data and survey responses.
+
+## Deploy
+
+- [Click here](#) to deploy.
+
