@@ -1,0 +1,21 @@
+/* WelcomeScreen.css */
+
+.welcome-container {
+    text-align: center;
+  }
+  
+  .start-button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .start-button:hover {
+    background-color: #24b300;
+  }
+  
