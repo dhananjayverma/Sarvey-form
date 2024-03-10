@@ -18,5 +18,5 @@ The Survey component is a React component designed to gather feedback from users
 
 ## Deploy
 
-- [Click here](#) to deploy.
+- <a href="https://boisterous-crumble-361a22.netlify.app/">click here </a>
 
